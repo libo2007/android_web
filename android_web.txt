@@ -1,0 +1,175 @@
+Android优秀开发资源
+字数1961 阅读1472 评论2 喜欢20
+Android Frameworks源码
+https://github.com/android/platform_frameworks_base
+
+开源项目
+1.philm：https://github.com/chrisbanes/philm
+2.iosched（Google I/O项目）：https://github.com/google/iosched
+3.WordPress-Android：https://github.com/wordpress-mobile/WordPress-Android
+4.AnExplorer：https://github.com/DWorkS/AnExplorer
+5.JamsMusicPlayer: https://github.com/psaravan/JamsMusicPlayer
+6.FileBrowserView:https://github.com/psaravan/FileBrowserView
+7.ExFilePicker:https://github.com/bartwell/ExFilePicker
+8.Talon-for-Twitter:https://github.com/klinker24/Talon-for-Twitter
+9.蘑菇街TeamTalk：https://github.com/mogujie/TeamTalk
+10.Github客户端：https://github.com/github/android
+11.google音乐：https://github.com/googlesamples/android-UniversalMusicPlayer
+12.coding：https://coding.net/u/coding/p/Coding-Android/git
+12.oschina：http://www.oschina.net/app
+13.开源项目集合：http://fossdroid.com/
+14.MVP应用：
+
+一个第三方的Github客户端：https://github.com/Leaking/WeGit
+一款基于Google Material Design设计开发的Android客户端：https://github.com/SkillCollege/SimplifyReader
+开源库
+1.开源库集合：http://android-arsenal.com/
+2.Trinea整理：https://github.com/Trinea/android-open-project
+3.daimajia整理：http://blog.daimajia.com/?page_id=60
+4.. 23code：http://www.23code.com/
+5.Appance Android：http://www.appance.com/category/android/develop/android-libraries-components/
+6.Android-libs: http://android-libs.com/
+7.开源库收集--BY泡在网上的日子：http://jcodecraeer.com/plus/list.php?tid=31
+8.修炼源码：http://www.94ifeng.com/
+9.开源动画效果库集合：http://www.open-open.com/lib/view/open1411443332703.html
+10.liaohuqiu整理：http://www.android-gems.com/
+开源框架
+1.KJFrameForAndroid
+
+https://github.com/kymjs/KJFrameForAndroid
+http://git.oschina.net/kymjs/KJFrameForAndroid
+2.dhroid：http://git.oschina.net/tengzhinei/dhroid
+3.LoonAndroid：https://github.com/gdpancheng/LoonAndroid
+4.droidparts：https://github.com/yanchenko/droidparts
+5.Bootstrap
+
+http://www.androidbootstrap.com/
+https://github.com/AndroidBootstrap/android-bootstrap
+6.AndBase
+
+http://www.amsoft.cn/post-47.html
+https://github.com/zhaoqp2010/andbase
+每天必看网站(关注行业动态)
+csdn：http://www.csdn.net/
+infoq：http://www.infoq.com/cn
+伯乐在线：http://blog.jobbole.com/category/android/
+importnew：http://www.importnew.com/
+（Android板块：http://android.jobbole.com/ ）
+Android开发技术前线 : https://github.com/bboyfeiyu/android-tech-frontier
+Android源码设计模式解析 : https://github.com/simple-android-framework/android_design_patterns_analysis
+开源库架构解析 ( codekk , 参与的人高中众多 ): https://github.com/android-cn/android-open-project-analysis
+每周必看网站
+AndroidWeekly国人整理：http://www.androidweekly.cn/
+AndroidWeekly老外整理：http://androidweekly.net/ （订阅此网址的邮件，每周都会有比较好的资源推荐）
+码农周刊：http://weekly.manong.io/ 进去邮箱订阅
+Android周刊：http://www.race604.com/tag/Android-Weekly/
+好东西传送门，app开发日报：http://app.memect.com/
+好的站点和博客
+1.GrepCode：http://grepcode.com/ （搜索查看android各系统版本源码）
+2.Android开发工具：http://www.androiddevtools.cn/
+3.Google Android官方培训课程中文版:
+github 地址 https://github.com/kesenhoo/android-training-course-in-chinese
+在线阅读地址 http://hukai.me/android-training-course-in-chinese/index.html
+离线文档
+PDF: http://hukai.me/eBooks/AndroidTrainingCHS.pdf
+ePub: http://hukai.me/eBooks/AndroidTrainingCHS.epub
+Mobi: http://hukai.me/eBooks/AndroidTrainingCHS.mobi
+Android中文社区：http://android-doc.com
+Android开发文档国内镜像：http://wear.techbrood.com/index.html
+http://androidcommunitydocs.com/
+4.styleandroid：https://blog.stylingandroid.com/
+5.android学习之路：http://stormzhang.com/ （http://stormzhang.github.io/android/2014/07/07/learn-android-from-rookie/ ）
+6.一些轻量级的开源库：http://litesuits.com/
+7.猿轩阁： http://toughcoder.net
+8.CodePath:http://guides.codepath.com/android (这上面有android开发相关的文章，英文)
+9.Android开发最佳实践：https://github.com/futurice/android-best-practices
+译文：http://blog.csdn.net/asce1885/article/details/43699715
+10.square官方技术博客：http://corner.squareup.com/archives.html#skip-ten-posts
+11.java技术网站（要翻墙）：http://javarevisited.blogspot.sg/
+12.泡在网上的日子：http://jcodecraeer.com
+13.stromzhang：http://stormzhang.com/
+14.kymjs：http://git.oschina.net/kymjs
+http://my.oschina.net/kymjs/blog?catalog=479614
+http://my.oschina.net/kymjs/blog?catalog=512612
+15.谢权: http://www.blueowls.net/
+2013年中南大学计算机信息系统管理专业毕业，Android开发达人，爱生活、爱编程、爱开源、爱尝鲜、也爱赚钱。
+16.张涛: http://blog.kymjs.com/
+国内优秀的富有开源精神的移动应用开发者，《KJFrameForAndroid》开发框架作者。
+17.马天宇: http://www.vmatianyu.cn/
+杭州智能穿戴公司 bong 开放平台负责人，开源爱好者，开源站点：http://litesuits.com
+18.谭东: http://www.aplesson.com
+开源爱好者，框架库开发者，有着丰富的创新能力
+19.Mr.SIMPLE http://blog.csdn.net/bboyfeiyu
+Mr.Simple, 乐于分享，热爱开源的Android工程师。
+20.任玉刚, 博客 : http://blog.csdn.net/singwhatiwanna , github : https://github.com/singwhatiwanna
+21.Trinea, 博客 : http://www.trinea.cn/ , github : https://github.com/trinea
+22.郭林, 博客 : http://blog.csdn.net/guolin_blog
+23.鸿洋, 博客 : http://blog.csdn.net/lmj623565791
+24.夏安明, 博客 : http://blog.csdn.net/xiaanming
+25.张兴业, 博客: http://blog.csdn.net/xyz_lmn
+26.徐医生, 博客 : http://blog.csdn.net/eclipsexys
+27.浩气雄鹰, 博客 : http://blog.csdn.net/jltxgcy
+28.王鹏，博客 : http://blog.csdn.net/wangjinyu501/
+29.阳光小强, 博客 : http://blog.csdn.net/dawanganban/
+30.胡凯, 博客 : http://hukai.me/ , github : https://github.com/kesenhoo
+31.qiujuer.net, 博客 : http://blog.csdn.net/qiujuer/ , github : https://github.com/qiujuer
+32.开源实验室主页：http://www.kymjs.com/DLA
+33.Drakeet的个人博客： http://drakeet.me/category/technology/android
+34.分析开源项目网站codekk：http://codekk.com/
+35.http://antonioleiva.com/category/blog/
+36.http://blog.zhaiyifan.cn/
+37.阳春面：http://www.aswifter.com
+38.技术小黑屋：http://droidyue.com/
+客户端推荐（开发相关）
+知乎
+开发者头条
+掘金
+简书
+逆向相关
+看雪论坛：http://bbs.pediy.com/forumdisplay.php
+逆向未来：http://www.pd521.com/
+工具相关
+1.在线生成xml的ID：http://android.lineten.net/layout.php （再也不用写findViewById了）
+或者Base类封装：
+
+public <T extends View> T getView(int viewId) {
+    return (T) this.findViewById(viewId);
+}
+2.JSON在线解析，格式化，代码高亮：
+
+http://json.tongxiehui.net/
+http://json.parser.online.fr/
+3.JSON在线生成C#实体类：http://json2csharp.com/
+（在线生成java都可以使用http://jsongen.byingtondesign.com/ 也可以直接使用studio的GsonFormat插件）
+Json生成javabean的java版本：http://enjoycode.info/?p=187
+
+4.XML序列化和反序列化工具XStream：http://xstream.codehaus.org/
+(另外：simplexml库基于dom解析，效率低；kxml库基于sax解析，但是解析麻烦)
+
+5.高级配色Adobe Kuler：https://color.adobe.com/zh/create/color-wheel/
+
+6.「ProcessOn」：https://www.processon.com/tour
+中文在线作图工具，高效还免费！支持协作绘图；
+思维导图、流程图、UML图、界面原型设计、组织结构图想做哪个做哪个，so easy！
+
+设计相关
+1.Android Desgin中文版：http://apkbus.com/design/
+
+2.推荐一个android设计参考 里面有很多app的截图，按照功能分类，并且给出了开源库的连接
+http://www.android-app-patterns.com/
+
+3.Android Niceties：http://androidniceties.tumblr.com/
+（Android Niceties集合了Android生态系统中一些精心设计、优雅精美的Android程序，是启发灵感的好资源。Android Niceties覆盖面极好，来自主要的平台应用比如Duolingo、Expedia、Etsy和之前依序还不为人知的Muzei、Timely和Pocket。）
+
+4.TODO应用开源的psd文件：http://www.invisionapp.com/do
+
+5.阿里icon：http://www.iconfont.cn/
+
+6.压缩项目的图片：https://tinypng.com/
+pp鸭：http://ppduck.com/ （一个高效压缩图片的工具）
+
+7.Material icons guide:http://google.github.io/material-design-icons/
+https://github.com/google/material-design-icons
+
+产品相关
+互联网早读课：http://zaodula.com/
